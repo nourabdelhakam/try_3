@@ -1,4 +1,4 @@
-prompt("u name ?", 'omar')
+prompt("Hi", 'omar')
 
 
 console.log("Hi, It's Me");
